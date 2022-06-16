@@ -40,4 +40,18 @@ routes > web.php
 web.php => En este archivo encontramos 3 rutas 2 rutas de la pagina Resgistration Form y 1 ruta de la pagina Recorded Data
 •	Resgistration Form => http://localhost:8000/form
 •	Recorded Data => http://localhost:8000/dataview
-Mysql => Se encuentran el esquema de la base de datos
+<<<<<<< HEAD
+bdMysql => Se encuentran el esquema de la base de datos
+=======
+bdMysql => Se encuentran el esquema de la base de datos
+
+
+
+
+
+
+
+
+
+ 
+>>>>>>> 25d30d48fa6d6afa7aa4fbc04df0a888e7b49042
